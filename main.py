@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 from playsound import playsound
 from time import sleep
 
