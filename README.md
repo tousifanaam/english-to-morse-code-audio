@@ -1,5 +1,5 @@
 # usage
-Type in a messege string and the program will play the output it as morse code in audio
+Type in a messege string and the program will output the text in morse code as both text and audio
 
 # how to
 - clone the repo
